@@ -1,8 +1,8 @@
-### Hola, soy Ignacio Perez 👋
-¿Quien soy?
+### Hola, soy Ignacio Perez 👋 <br/>
+¿Quien soy? <br/>
 Soy un desarrollador de software junior con experiencia en tecnologías como:<br/>
-React js, Node js, Postgress sql, CSS y HTML. 
-¿Que hago?
+React js, Node js, Postgress sql, CSS y HTML. <br/>
+¿Que hago? <br/>
 Recientemente completé el bootcamp "Henry" con éxito, adquiriendo habilidades y conocimientos valiosos en el desarrollo de software.<br/>
 Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en tiempo real, lo que me permitió desarrollar habilidades importantes en la colaboración y la comunicación. Actualmente estoy entusiasmado por aplicar mis habilidades y conocimientos, así como mi experiencia en trabajo en equipo, en un entorno de trabajo desafiante y en constante evolución para contribuir al éxito de la empresa.
  <br/>
