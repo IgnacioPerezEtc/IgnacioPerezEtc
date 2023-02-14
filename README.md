@@ -1,14 +1,9 @@
-### <div align="center">¿Quién soy?</div>  
-  
+
+  ### <div align="center">Soy Ignacio Perez</div>  
 
 <div align="center">
 <img src="https://www.bbvaapimarket.com/wp-content/uploads/2018/08/recursosprogramadores.png" align="center" height="" width="400" />
 </div>  
-  
-
-### <div align="center">Soy Ignacio Perez</div>  
-  
-
 Soy un desarrollador de software junior con experiencia en tecnologías como: React js, Node js, Postgress sql, CSS y HTML.   
   
 
@@ -71,7 +66,7 @@ Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en t
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-<h3>Email<h3/>
+<h3>Email:<h3/>
  <p>nachoperezEtc@gmail.com<p/>                  
 <br/>  
 
