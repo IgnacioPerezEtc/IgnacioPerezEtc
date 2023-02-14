@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hola, soy Ignacio Perez 👋
+Soy un desarrollador de software junior con experiencia en tecnologías como:<br/>
+React js, Node js, Postgress sql, CSS y HTML. Recientemente completé el bootcamp "Henry" con éxito, adquiriendo habilidades y conocimientos valiosos en el desarrollo de software.<br/>
+Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en tiempo real, lo que me permitió desarrollar habilidades importantes en la colaboración y la comunicación. Estoy entusiasmado por aplicar mis habilidades y conocimientos, así como mi experiencia en trabajo en equipo, en un entorno de trabajo desafiante y en constante evolución para contribuir al éxito de la empresa.
 
-<!--
-**IgnacioPerezEtc/IgnacioPerezEtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
