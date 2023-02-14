@@ -16,8 +16,8 @@ Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en t
 
 <br/>  
 
-
-## Mis tecnologias  
+<div align="center"> 
+<h2> Mis tecnologias<h2/>  <div/>
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,7 +58,8 @@ Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en t
 <br/>  
 
 
-## Connect with me  
+Contactame en:<br/> 
+  
 <a href="https://github.com/IgnacioPerezEtc" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -66,7 +67,7 @@ Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en t
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-<h3>Email:<h3/>
+<h4>Email:<h4/>
  <p>nachoperezEtc@gmail.com<p/>                  
 <br/>  
 
