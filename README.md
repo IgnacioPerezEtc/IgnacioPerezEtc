@@ -17,7 +17,7 @@ Durante el bootcamp, tuve la oportunidad de trabajar en equipo en proyectos en t
 <br/>  
 
 
-## My Skill Set  
+## Mis tecnologias  
 <table><tr><td valign="top" width="33%">
 
 
