@@ -68,7 +68,7 @@ Contactame en:<br/>
 </a>  
   
 <h4>Email:<h4/>
- <p>nachoperezEtc@gmail.com<p/>                  
+ <p>nachoperezetc@gmail.com<p/>                  
 <br/>  
 
 
